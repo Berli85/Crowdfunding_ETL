@@ -1,0 +1,14 @@
+SELECT
+	*
+FROM 
+	campaign
+ORDER BY
+	goal DESC
+LIMIT 10
+;
+
+
+
+
+
+
