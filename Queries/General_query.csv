@@ -1,14 +1,11 @@
-SELECT
-	*
-FROM 
-	campaign
-ORDER BY
-	goal DESC
-LIMIT 10
-;
-
-
-
-
-
-
+"cf_id","contact_id","company_name","description","goal","pledged","outcome","backers_count","country","currency","launch_date","end_date","staff_pick","spotlight","category_id","subcategory_id","last_updated"
+1905,2329,"Romero-Hoffman","Open-source zero administration complexity","199200","184750","failed",2253,"CA","CAD","2021-06-15","2021-10-26",False,False,"4","subcat4","2024-01-04 20:05:33.098362"
+553,4593,"Hensley Ltd","Versatile cohesive open system","199000","142823","failed",3483,"US","USD","2021-07-27","2021-11-21",False,False,"1","subcat1","2024-01-04 20:05:33.098362"
+2489,2272,"Miller Ltd","Open-architected mobile emulation","198600","97037","failed",1198,"US","USD","2020-11-10","2021-10-30",False,False,"6","subcat10","2024-01-04 20:05:33.098362"
+2311,1673,"Farrell and Sons","Synergized 4thgeneration conglomeration","198500","123040","failed",1482,"AU","AUD","2020-08-23","2021-03-24",False,True,"2","subcat2","2024-01-04 20:05:33.098362"
+2837,3768,"Kelly-Colon","Stand-alone grid-enabled leverage","197900","110689","failed",4428,"AU","AUD","2021-09-18","2021-11-30",False,False,"4","subcat4","2024-01-04 20:05:33.098362"
+1941,5177,"Lamb-Sanders","Stand-alone reciprocal frame","197700","127591","failed",2604,"DK","DKK","2021-04-30","2021-12-26",False,True,"5","subcat11","2024-01-04 20:05:33.098362"
+980,4890,"Berger, Johnson and Marshall","Devolved exuding emulation","197600","82959","failed",830,"US","USD","2020-12-12","2021-06-18",False,False,"7","subcat12","2024-01-04 20:05:33.098362"
+225,3411,"Jackson Inc","Mandatory multi-tasking encryption","196900","199110","successful",2053,"US","USD","2020-12-07","2021-08-21",False,False,"5","subcat5","2024-01-04 20:05:33.098362"
+495,5637,"Wang, Koch and Weaver","Digitized analyzing capacity","196700","174039","failed",3868,"IT","EUR","2021-08-01","2021-12-27",False,False,"5","subcat13","2024-01-04 20:05:33.098362"
+84,3779,"Mcclure LLC","Sharable discrete budgetary management","196600","159931","failed",1538,"US","USD","2021-06-12","2021-12-02",False,True,"4","subcat4","2024-01-04 20:05:33.098362"
